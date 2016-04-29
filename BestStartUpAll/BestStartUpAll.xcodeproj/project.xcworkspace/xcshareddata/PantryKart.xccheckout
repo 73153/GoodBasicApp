@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B49D4AF8-239A-4E26-B87B-2C79DF2DB4CC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5B0A55E8CC1A2ED12B55F7F3B91FC8FE9EBA005A</key>
+		<string>http://202.131.115.109/root/pantrycart-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PantryKart/PantryKart.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5B0A55E8CC1A2ED12B55F7F3B91FC8FE9EBA005A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://202.131.115.109/root/pantrycart-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5B0A55E8CC1A2ED12B55F7F3B91FC8FE9EBA005A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5B0A55E8CC1A2ED12B55F7F3B91FC8FE9EBA005A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PantryKartGit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
